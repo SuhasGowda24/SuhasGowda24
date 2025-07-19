@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SuhasGowda24](https://github.com/SuhasGowda24)
 
-- 💬 Ask me about **Html, CSS, JavaScript**
+- 💬 Ask me about **Html, CSS, JavaScript, React**
 
 - 📫 How to reach me **srisuhasgowda24@gmail.com**
 
