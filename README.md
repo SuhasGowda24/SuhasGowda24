@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://drive.google.com/your-resume-link" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white" />
+    <img src="[https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white](https://drive.google.com/drive/folders/19a0C23_Jh9_8IMX7YVm7j1mOJexezSLu)" />
   </a>
 </p>
 
