@@ -9,8 +9,8 @@
   <a href="https://my-portfolio-xnvr.onrender.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://drive.google.com/your-resume-link" target="_blank">
-    <img src="[https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white](https://drive.google.com/drive/folders/19a0C23_Jh9_8IMX7YVm7j1mOJexezSLu)" />
+  <a href="https://drive.google.com/file/d/1qyH5-LYm3pH4N4Nrn3hDKlee_Qg_QW3F/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white" />
   </a>
 </p>
 
