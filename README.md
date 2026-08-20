@@ -18,7 +18,7 @@
   <a href="https://suhas-portfolio-vert.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://suhas-portfolio-vert.vercel.app/Resume/Suhas_S_Resume.pdf" target="_blank">
+  <a href="https://suhas-portfolio-vert.vercel.app/Resume/Suhas_S_CV.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=readthedocs&logoColor=white" />
   </a>
 </p>
