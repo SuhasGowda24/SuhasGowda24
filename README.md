@@ -21,9 +21,6 @@
   <a href="https://suhas-portfolio-vert.vercel.app/Resume/Suhas_S_Resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=readthedocs&logoColor=white" />
   </a>
-  <!-- <a href="https://github.com/SuhasGowda24" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a> -->
 </p>
 
 <br/>
@@ -34,7 +31,7 @@
 role: Computer Science Undergrad, class of 2026
 focus: Machine Learning · Deep Learning · Computer Vision · Full-Stack Development
 currently: Building & shipping real-world AI + web applications
-looking_for: Software Engineering · Full-Stack Development · Data Science · AI / ML Engineering opportunities
+looking_for: Data Science · Machine Learning · AI Engineering · Software Engineering opportunities
 ```
 
 - 🔭 I'm currently building full-stack applications with integrated ML pipelines
@@ -137,7 +134,7 @@ looking_for: Software Engineering · Full-Stack Development · Data Science · A
 <p align="center">
   <a href="https://www.linkedin.com/in/suhas-s-641a6a243/">LinkedIn</a> · 
   <a href="mailto:srisuhasgowda24@gmail.com">Email</a> · 
-  <a href="https://my-portfolio-xnvr.onrender.com">Portfolio</a>
+  <a href="https://suhas-portfolio-vert.vercel.app/">Portfolio</a>
 </p>
 
 <!-- <p align="center">
