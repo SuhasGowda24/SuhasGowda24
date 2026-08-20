@@ -1,23 +1,29 @@
 <h1 align="center">Hey, I'm Suhas 👋</h1>
-<h3 align="center">Full-Stack Developer · AI/ML Engineer in the making</h3>
+<h3 align="center">Machine Learning Engineer · Data Scientist · AI Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=520&lines=Building+full-stack+AI+%26+web+apps;Machine+Learning+%2F+Deep+Learning+%2F+Computer+Vision;Turning+ideas+into+deployed+products;Open+to+SWE+%2F+AI+%2F+ML+roles" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Building+end-to-end+AI+and+ML+applications;Machine+Learning+%2F+Deep+Learning+%2F+Computer+Vision;Turning+data+and+ideas+into+deployed+solutions;Building+full-stack+AI-powered+applications;Open+to+AI+%2F+ML+%2F+Data+Science+roles"
+    alt="Typing SVG"
+  />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/suhas-s-641a6a243/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:srisuhasgowda24@gmail.com" target="_blank">
+  <a href="mailto:srisuhasgowda24@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://my-portfolio-xnvr.onrender.com" target="_blank">
+  <a href="https://suhas-portfolio-vert.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://drive.google.com/file/d/1qyH5-LYm3pH4N4Nrn3hDKlee_Qg_QW3F/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white" />
+  <a href="https://suhas-portfolio-vert.vercel.app/Resume/Suhas_S_Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=readthedocs&logoColor=white" />
   </a>
+  <!-- <a href="https://github.com/SuhasGowda24" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a> -->
 </p>
 
 <br/>
@@ -28,14 +34,14 @@
 role: Computer Science Undergrad, class of 2026
 focus: Machine Learning · Deep Learning · Computer Vision · Full-Stack Development
 currently: Building & shipping real-world AI + web applications
-looking_for: Software Engineering / AI / ML Engineering opportunities
-fun_fact: I'd rather deploy a rough version than let a perfect one stay local
+looking_for: Software Engineering · Full-Stack Development · Data Science · AI / ML Engineering opportunities
 ```
 
 - 🔭 I'm currently building full-stack applications with integrated ML pipelines
-- 🌱 Deepening my knowledge of computer vision and applied deep learning
+- 🌱 Deepening my knowledge in Machine Learning, Deep Learning, Computer Vision, and AI
 - 🤝 Open to collaborating on AI-powered products and open-source projects
-- 📌 All my work lives at **[github.com/SuhasGowda24](https://github.com/SuhasGowda24)**
+- 📌 All my projects: **[github.com/SuhasGowda24](https://github.com/SuhasGowda24)**
+- 🌐 Portfolio: **[suhas-portfolio-vert.vercel.app](https://suhas-portfolio-vert.vercel.app/)**
 - 📫 Reach me at **srisuhasgowda24@gmail.com**
 
 <br/>
@@ -104,20 +110,25 @@ fun_fact: I'd rather deploy a rough version than let a perfect one stay local
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=SuhasGowda24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="155" src="https://streak-stats.demolab.com?user=SuhasGowda24&theme=tokyonight&hide_border=true" />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=SuhasGowda24&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Suhas GitHub Stats"
+  />
+  <img
+    height="165"
+    src="https://streak-stats.demolab.com?user=SuhasGowda24&theme=tokyonight&hide_border=true"
+    alt="Suhas GitHub Streak"
+  />
 </p>
 
 <p align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuhasGowda24&layout=compact&theme=tokyonight&hide_border=true" />
-  <img height="155" src="https://github-profile-trophy.vercel.app/?username=SuhasGowda24&theme=tokyonight&no-frame=true&row=2&column=3" />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuhasGowda24&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SuhasGowda24/SuhasGowda24/output/github-contribution-grid-snake.svg" alt="contribution snake"/>
-</p>
-
-<sup align="center">Stats card = live account totals · Streak = current + longest run · Trophy = all-time milestones · Snake = a year of contribution history, animated</sup>
 
 <br/>
 
@@ -129,6 +140,6 @@ fun_fact: I'd rather deploy a rough version than let a perfect one stay local
   <a href="https://my-portfolio-xnvr.onrender.com">Portfolio</a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SuhasGowda24&style=flat-square&color=2E9EF7" alt="Profile views"/>
-</p>
+</p> -->
